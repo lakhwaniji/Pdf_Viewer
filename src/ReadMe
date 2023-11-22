@@ -1,0 +1,37 @@
+Configuration
+
+Ensure the MongoDB connection URL is correctly configured in the server/config.js file.
+
+Work in Progress
+
+Please note that this is a prototype, and there is still work to be done. The components are not fully connected at this stage. Additional integration and development are required to complete the functionality.
+
+Technologies Used
+
+React.js
+Node.js
+Express.js
+MongoDB
+Any other technologies...
+Project Overview
+
+Server
+Describe the server-side components and features.
+
+MongoDB Integration
+Explain how MongoDB is integrated, and mention the importance of the connection URL.
+
+Payment Component
+Briefly explain the payment component and its role in the project.
+
+Acknowledgments
+
+Mention any contributors, libraries, or resources you found helpful.
+
+
+
+
+
+
+
+THIS PROJECT IS DEVELOPED IN VERY SHORT PERIOD OF TIME JUST TO PROVE THAT I KNOW WEB DEV
